@@ -27,7 +27,7 @@ A Full Stack Web developer🎯 and designer🌈 from Pakistan 🇵🇰
 <p align="center">
  <a href="https://www.shafizahid.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.shafizahid.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shafizahid" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shafi%20Zahid-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shafizahidd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shafi.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/shafizahidd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shafizahidd-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ishafizahid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishafizahid@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
