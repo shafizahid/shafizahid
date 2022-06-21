@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Shafi Zahid👦,
-A Full Stack Javascript and UI developer🎯 from Pakistan 🇵🇰
+A Full Stack Javascript and UI developer 🎯 from Pakistan 🇵🇰
 
 - 👨‍💻 Full Stack MERN Developer
 - 📚 What do I believe? Jack of all, Master of some.
